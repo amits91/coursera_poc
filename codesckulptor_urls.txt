@@ -1,3 +1,4 @@
 Homework 1, Q.9 :http://www.codeskulptor.org/#user40_LAw6MBbkmD_0.py
 Homework 1, Q.10 :http://www.codeskulptor.org/#user40_xgLpyFfKDG_0.py
 mini project 1: http://www.codeskulptor.org/#user40_6THY3jroQY_1.py
+2048: http://www.codeskulptor.org/#user40_MpyN82l70F_0.py
