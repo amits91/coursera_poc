@@ -10,3 +10,6 @@ Tic-Tac-Toe:
 http://www.codeskulptor.org/#user40_eRpKql5gDb_2.py
 http://www.codeskulptor.org/#user40_eRpKql5gDb_13.py
 Final: http://www.codeskulptor.org/#user40_eRpKql5gDb_16.py
+
+Yahtzee:
+score only: http://www.codeskulptor.org/#user40_VZQaIwvEA2_0.py
