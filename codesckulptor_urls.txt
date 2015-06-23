@@ -16,3 +16,4 @@ score only: http://www.codeskulptor.org/#user40_VZQaIwvEA2_0.py
 
 Homework 4:
 Permutation: http://www.codeskulptor.org/#user40_ScrqNWQslR_0.py
+Homework Question digits: http://www.codeskulptor.org/#user40_UUjydmteK8_1.py
