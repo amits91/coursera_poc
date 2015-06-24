@@ -13,6 +13,7 @@ Final: http://www.codeskulptor.org/#user40_eRpKql5gDb_16.py
 
 Yahtzee:
 score only: http://www.codeskulptor.org/#user40_VZQaIwvEA2_0.py
+expected_value: http://www.codeskulptor.org/#user40_VZQaIwvEA2_4.py
 
 Homework 4:
 Permutation: http://www.codeskulptor.org/#user40_ScrqNWQslR_0.py
