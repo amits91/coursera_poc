@@ -19,3 +19,7 @@ all_holds: http://www.codeskulptor.org/#user40_VZQaIwvEA2_12.py
 Homework 4:
 Permutation: http://www.codeskulptor.org/#user40_ScrqNWQslR_0.py
 Homework Question digits: http://www.codeskulptor.org/#user40_UUjydmteK8_1.py
+
+Greedy Boss:
+Initial:
+http://www.codeskulptor.org/#user40_UrnlfuIef9_0.py
