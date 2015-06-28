@@ -24,3 +24,6 @@ Greedy Boss:
 Initial:
 http://www.codeskulptor.org/#user40_UrnlfuIef9_0.py
 http://www.codeskulptor.org/#user40_UrnlfuIef9_6.py
+
+Solution:
+http://www.codeskulptor.org/#user40_AZle2dulPf_0.py
