@@ -31,3 +31,4 @@ http://www.codeskulptor.org/#user40_AZle2dulPf_1.py
 
 Cookie Clicker:
 Initial version: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_0.py
+Clicker Class: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_3.py
