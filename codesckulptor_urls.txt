@@ -34,3 +34,4 @@ Cookie Clicker:
 Initial version: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_0.py
 Clicker Class: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_3.py
 Simulate_clicker: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_7.py
+http://www.codeskulptor.org/#user40_VO5vsnP4HJ_9.py
