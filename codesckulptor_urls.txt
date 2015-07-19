@@ -40,3 +40,9 @@ http://www.codeskulptor.org/#user40_VO5vsnP4HJ_15.py
 http://www.codeskulptor.org/#user40_VO5vsnP4HJ_18.py
 http://www.codeskulptor.org/#user40_VO5vsnP4HJ_19.py
 Final: http://www.codeskulptor.org/#user40_VO5vsnP4HJ_26.py
+----------------------------------------------------------------------------------
+Principles of Computing 2
+--------------------------
+Mini project 1:
+http://www.codeskulptor.org/#user40_iPQrmvU7wb_0.py
+
