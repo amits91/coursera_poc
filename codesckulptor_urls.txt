@@ -50,3 +50,6 @@ http://www.codeskulptor.org/#user40_iPQrmvU7wb_9.py
 Final:
 http://www.codeskulptor.org/#user40_iPQrmvU7wb_17.py
 http://www.codeskulptor.org/#user40_iPQrmvU7wb_19.py
+
+Homework 2:
+fib: http://www.codeskulptor.org/#user40_WslBHK4jkN_0.py
