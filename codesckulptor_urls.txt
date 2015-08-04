@@ -59,3 +59,6 @@ http://www.codeskulptor.org/#user40_UhCs79HopD_0.py
 http://www.codeskulptor.org/#user40_UhCs79HopD_8.py
 http://www.codeskulptor.org/#user40_UhCs79HopD_9.py - incomplete
 http://www.codeskulptor.org/#user40_UhCs79HopD_18.py - Submitted
+
+Mini Project 3: Game Tree
+http://www.codeskulptor.org/#user40_oS0M7uvP9p_0.py
