@@ -73,3 +73,6 @@ http://www.codeskulptor.org/#user40_tvTmdWlhT5_6.py
 http://www.codeskulptor.org/#user40_tvTmdWlhT5_22.py
 http://www.codeskulptor.org/#user40_tvTmdWlhT5_29.py
 Final submitted: http://www.codeskulptor.org/#user40_tvTmdWlhT5_32.py
+
+Algorithmic Thinking:
+ER: http://www.codeskulptor.org/#user40_GFYYqjBYRx_0.py
