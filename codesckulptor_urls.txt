@@ -76,3 +76,5 @@ Final submitted: http://www.codeskulptor.org/#user40_tvTmdWlhT5_32.py
 
 Algorithmic Thinking:
 ER: http://www.codeskulptor.org/#user40_GFYYqjBYRx_0.py
+Project1: degree distribution
+http://www.codeskulptor.org/#user40_rFiX7J1vEc_6.py
